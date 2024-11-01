@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Welcome to my page.
+HELLO WORLD... WELCOME TO AMONSWORLD
 
 [Link to another page](./another-page.html).
 
