@@ -4,7 +4,7 @@ layout: default
 
 HELLO WORLD... WELCOME TO AMONS CYBERSECURITY PORTFOLIO
 
-[Link to another page](./another-page.html).
+www.linkedin.com/in/amon-s-84b059323
 
 There should be whitespace between paragraphs.
 
